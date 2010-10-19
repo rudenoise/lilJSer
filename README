@@ -1,0 +1,3 @@
+This is a, unit tested, version of the excersises from Daniel P. Friedman and Matthias Felleisen's Scheme book "The Little Schemer".
+
+It is a work in progress and was used to learn how to use JavaScript in a fuunctional style. As mentioned by Douglas Crockford: "JavaScript is like Lisp in C's clothing".
